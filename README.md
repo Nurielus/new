@@ -1,19 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Oscar-Winning Movies</title>
-    <style>
-        body {
-            background-color: #1bab79;
-            color: white;
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 20px;
-        }
-    </style>
-</head>
 <body>
     <header>
         <h1>Oscar-Winning Movies</h1>
@@ -43,4 +27,3 @@
         </section>
     </main>
 </body>
-</html>
